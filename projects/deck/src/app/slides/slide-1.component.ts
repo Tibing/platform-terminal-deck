@@ -3,7 +3,9 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'tpd-slide-1',
   template: `
-    Angular Platforms in Depth!
+    <text top="center" left="center">
+Platforms in Depth.\nRendering Angular\nApplications in Terminal
+    </text>
   `,
 })
 

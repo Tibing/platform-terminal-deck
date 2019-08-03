@@ -3,9 +3,9 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'tpd-slide-3',
   template: `
-    The End!
-
-    Thank you for your time!
+    <text top="center" left="center">
+The End!\nThank you for your time!
+    </text>
   `,
 })
 
